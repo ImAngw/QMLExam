@@ -10,10 +10,13 @@ is a hybrid quantum-classical machine learning project that leverages Quantum Ph
 
 ## utility_functions.py
 This module contains helper functions used for visualization and label processing; it contains:
-- plot_loss
-- return_quantum_labels
-- draw_circle_with_rays
+- Function: plot_loss
+- Function: return_quantum_labels
+- Function: draw_circle_with_rays
 
 ## hybrid_neural_network.py
-
+This module contains the definition of the quantum-classical neural network.
+- Class: NewQuantumLayer
+- Class: CustomAngleFunction
+- Class: NewHybridNN
 
