@@ -1,7 +1,9 @@
-# QMLExam
-Quantum Machine Leaning project for final exam
+# MNIST Classification with Quantum Phase Estimation
 
-# Title: MNIST Classification with Quantum Phase Estimation
-
+## Dependencies
+- PyTorch
+- NumPy
+- qiskit
+- matplotlib (for plotting)
 
 
