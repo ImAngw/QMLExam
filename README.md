@@ -19,7 +19,7 @@ This module contains the definition of the quantum-classical neural network.
 - Class: CustomAngleFunction
 - Class: NewHybridNN
 
-## QML_Presentation
+## QML_Relation
 This PDF contains all the details about the model and the results achieved.
 
 
